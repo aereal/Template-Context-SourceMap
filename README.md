@@ -4,7 +4,10 @@ Template::Context::SourceMap - It's new $module
 
 # SYNOPSIS
 
+    use Template::Config;
     use Template::Context::SourceMap;
+
+    $Template::Config::CONTEXT = 'Template::Context::SourceMap';
 
 # DESCRIPTION
 
