@@ -1,0 +1,2 @@
+<h1>Template</h1>
+[% INCLUDE "_body.html.tt" %]
